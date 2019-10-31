@@ -4,6 +4,11 @@ var movieList = [
             imageURL: "https://wallpapercave.com/wp/4DnMAS4.png",
             movieUrl: "https://www.imdb.com/title/tt0107688/"
         },
+                {
+            movieName: "The Crow",
+            imageURL: "https://m.media-amazon.com/images/M/MV5BMTkwZGVmMTctNTQxZS00MzM4LWEyNjctNDIxYzllZDY4YWJmXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg",
+            movieUrl: "https://www.imdb.com/title/tt0109506/"
+        }
         {
             movieName: "Corpse Bride",
             imageURL: "https://images.mentalfloss.com/sites/default/files/styles/mf_image_16x9/public/corpsehed.jpg?itok=0cnYDZLJ&resize=1100x1100",
@@ -118,9 +123,13 @@ var movieList = [
             movieName: "Hotel Transylvania 3: Summer Vacation",
             imageURL: "https://m.media-amazon.com/images/M/MV5BNjA1MzU5MTY3OF5BMl5BanBnXkFtZTgwNTU5MDA3NTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
             movieUrl: "https://www.imdb.com/title/tt5220122/"
-        },
-        {
+        }  {
             movieName: "The Crow",
+            imageURL: "https://m.media-amazon.com/images/M/MV5BMTkwZGVmMTctNTQxZS00MzM4LWEyNjctNDIxYzllZDY4YWJmXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg",
+            movieUrl: "https://www.imdb.com/title/tt0109506/"
+        }
+        {
+            movieName: "The Crow 2",
             imageURL: "https://m.media-amazon.com/images/M/MV5BMTkwZGVmMTctNTQxZS00MzM4LWEyNjctNDIxYzllZDY4YWJmXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg",
             movieUrl: "https://www.imdb.com/title/tt0109506/"
         }
